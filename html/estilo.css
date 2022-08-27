@@ -1,0 +1,39 @@
+.formulario{
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+    align-items: center;
+    padding: 15px;
+}
+fieldset{
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 2%;
+    background-color:#e4e6e1
+    
+}
+label{
+    font-size: 1.2em;
+}
+h2{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+h3{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+
+}
+
+#op{
+    display: inline; 
+}
+
+body{
+    background-color: bisque;
+    background-image: url(/imagens/folha.jpg);
+    background-size: 100%;
+    background-repeat:no-repeat;
+}
